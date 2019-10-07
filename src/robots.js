@@ -59,5 +59,29 @@ export const robots = [
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'Pius Gyamenah',
+    username: 'Pius Linnaeus',
+    email: 'Pius@gyamenah.com'
+  },
+  {
+    id: 12,
+    name: 'Johanna Asante ',
+    username: 'Sweet Choco Milo',
+    email: 'Sweet@chocoMilo.com'
+  },
+  {
+    id: 13,
+    name: 'Uncle Shaggy',
+    username: 'Bis Dexterity',
+    email: 'shaggy@uncle.com'
+  },
+  {
+    id: 14,
+    name: 'Proschia Cutie Gaisie',
+    username: 'Annette the Cutie',
+    email: 'noreply@browning.com'
   }
 ];
